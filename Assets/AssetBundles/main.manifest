@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1432356786
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81caf3d9e283b263ed4ab5cd76a9b117
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6bf7dee3fbf8dfc7cb2227512991089b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/hellothere_2048.png
+- Assets/copyright_2048.png
+- Assets/sometext.txt
+Dependencies: []
