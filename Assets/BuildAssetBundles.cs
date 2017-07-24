@@ -8,7 +8,7 @@ public class CreateAssetBundles
 		BuildPipeline.BuildAssetBundles(
 			"Assets/AssetBundles",
 			BuildAssetBundleOptions.None,
-			BuildTarget.StandaloneOSXUniversal
+			BuildTarget.StandaloneWindows
 		);
 	}
 }
